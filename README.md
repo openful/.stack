@@ -1,2 +1,3 @@
 # .stack
-.stack.yml files are utilized by a Fullstack Schema Definition Language to support the Open Source Stack Specifications (.openful.yml and .stack.yml files)
+`.stack.yaml` files are utilized by a Fullstack Schema Definition Language [FSDL](https://lmg.systems/fsdl) to support the Open Source Stack Definition described by StackStandard.com.
+The `.stack` directory can also conveniently organize various deployment files that need not be in your project's root.
